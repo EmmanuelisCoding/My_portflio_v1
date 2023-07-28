@@ -47,6 +47,16 @@
   footer {
     height: 40vh;
   }
+  .pp {
+    position: relative;
+  }
+  .photo {
+    transform: scale(70%);
+  }
+  .ppdiv {
+    width: 100%;
+    height: 100%;
+  }
   #profile {
     height: 83vh;
     margin-bottom: 0;
