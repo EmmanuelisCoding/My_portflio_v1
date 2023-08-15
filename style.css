@@ -32,6 +32,17 @@ li>a {
   text-decoration: underline;
 }
 
+#centerIt {
+  text-align: center;
+}
+strong{
+  font-size: 1.5em;
+}
+#thespan {
+  font-weight: bold;
+  color: #f81373;
+}
+
 .pp {
   position: relative;
   opacity: 0;
